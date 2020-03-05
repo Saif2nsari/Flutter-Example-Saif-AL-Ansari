@@ -1,16 +1,22 @@
-# project1
+# Flutter Workshop 4/3/2020 Project Files
 
-A new Flutter application.
+We Created a simple page that shows a list of titles and images from an API.
 
-## Getting Started
+[Workshop Slides Here](https://github.com/Saif2nsari/Flutter-Example-Saif-AL-Ansari/blob/master/Workshop%20Slides/Saif%20Al-Ansari%20-%20Introduction%20to%20Flutter.pdf)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## By Saif M. Al-Ansari
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Head of Mobile Apps Dept. at Awael Technologies.
+- Founder of Kartoneh.
+- Core Team Member at Google Developer Student Clubs (PSUT).
+- 9 Years in the IT Field , 7 of them in Coding.
+- Regional Public Relations Director at Toastmasters International. (Jordan & Lebanon)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[saif@awaeljo.com](mailto:saif@awaeljo.com)
+[saif@kartoneh.com](mailto:saif@kartoneh.com)
+
+
+[Kartoneh](https://kartoneh.com/)|[Awael Technologies](https://awaeljo.com/)
+
+This Workshop was in collaboration with GlobaDev Academy Community.
