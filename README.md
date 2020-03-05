@@ -14,9 +14,11 @@ We Created a simple page that shows a list of titles and images from an API.
 - Regional Public Relations Director at Toastmasters International. (Jordan & Lebanon)
 
 [saif@awaeljo.com](mailto:saif@awaeljo.com)
+
+
 [saif@kartoneh.com](mailto:saif@kartoneh.com)
 
 
-[Kartoneh](https://kartoneh.com/)|[Awael Technologies](https://awaeljo.com/)
+[Kartoneh](http://www.kartoneh.com/)  |  [Awael Technologies](http://awaeljo.com/)
 
 This Workshop was in collaboration with GlobaDev Academy Community.
